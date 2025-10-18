@@ -147,9 +147,7 @@ Copier le code
   { "zoneName": "Cherno", "zonePosition": [6800.0, 10.0, 2650.0], "zoneRadius": 40 }
 ]
 }
-🎁 Loot Configuration (loot.json)
-jsonc
-Copier le code
+
 {
   "lootSets": [
     {
