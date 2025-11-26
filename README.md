@@ -3,7 +3,6 @@
 [![Version](https://img.shields.io/badge/version-1.0.0-blue.svg)](https://github.com/yourusername/dayz-koth)
 [![DayZ](https://img.shields.io/badge/DayZ-1.26-green.svg)](https://dayz.com)
 [![License](https://img.shields.io/badge/license-MIT-orange.svg)](LICENSE)
-[![Website](https://img.shields.io/badge/website-atomez.net-red.svg)](https://atomez.net)
 
 A comprehensive King of the Hill modification for DayZ servers featuring dynamic zone capture events, vehicle KOTH mechanics with time-based spawning (18:00-00:00), and an integrated persistence system.
 
@@ -334,10 +333,5 @@ MIT License - Free to use and modify
 
 ---
 
-<div align="center">
-
-**Made with ❤️ for the DayZ community**
-
-[Download](https://atomez.net) • [Documentation](https://atomez.net) • [Support](https://atomez.net)
 
 </div>
