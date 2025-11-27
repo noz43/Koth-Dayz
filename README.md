@@ -1,6 +1,6 @@
 # 🏆 DayZ KOTH (King of the Hill) Mod
 
-[![Version](https://img.shields.io/badge/version-1.0.0-blue.svg)](https://github.com/yourusername/dayz-koth)
+[![Version](https://img.shields.io/badge/version-1.0.0-blue.svg)](https://github.com/noz43/dayz-koth)
 [![DayZ](https://img.shields.io/badge/DayZ-1.26-green.svg)](https://dayz.com)
 [![License](https://img.shields.io/badge/license-MIT-orange.svg)](LICENSE)
 
@@ -15,7 +15,6 @@ A comprehensive King of the Hill modification for DayZ servers featuring dynamic
 - [Configuration Files](#-configuration-files)
   - [Map Config (chernarus.json)](#map-config-chernarusjson)
   - [Loot Config (loot.json)](#loot-config-lootjson)
-- [Support](#-support)
 
 ---
 
@@ -317,15 +316,6 @@ When a vehicle is captured:
 
 ---
 
-## 💬 Support
-
-[![Support](https://img.shields.io/badge/Support-atomez.net-blue?style=for-the-badge)](https://atomez.net)
-
-**Website**: [atomez.net](https://atomez.net)  
-**Full Documentation**: Available on website  
-**Downloads**: Get latest version at [atomez.net](https://atomez.net)
-
----
 
 ## 📝 License
 
