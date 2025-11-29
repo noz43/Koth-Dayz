@@ -31,11 +31,10 @@ A comprehensive King of the Hill modification for DayZ servers featuring dynamic
 
 ## 🚀 Installation
 
-1. Download from [atomez.net](https://atomez.net)
-2. Extract to your DayZ server directory
-3. Add to server startup: `-mod=@YourOtherMods;@DayZ-KOTH`
-4. Configure your files (see below)
-5. Restart server
+1. Extract to your DayZ server directory
+2. Add to server startup: `-mod=@YourOtherMods;@DayZ-KOTH`
+3. Configure your files (see below)
+4. Restart server
 
 ---
 
