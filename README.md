@@ -42,7 +42,7 @@ A comprehensive King of the Hill modification for DayZ servers featuring dynamic
 
 ### Map Config (chernarus.json)
 
-**Location**: `mpmissions/yourmap/config/chernarus.json`
+**Location**: `config/chernarus.json`
 
 > **⚠️ Important**: File must be named after your map (e.g., `livonia.json`, `namalsk.json`)
 ```json
